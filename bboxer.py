@@ -2,8 +2,8 @@
 
 Single image usage:
   python bboxer.py \
-    --input /some/directory/with/images \
-    --output /some/directory/to/save
+    --input /some/image.jpg \
+    --output /some/image_w_bboxes.jpg
 
 Directory mode usage:
   python bboxer.py \
